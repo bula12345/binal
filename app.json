@@ -7,17 +7,17 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94761679875",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~BlgmFjsKgg8ZVZX",
       "required": false
     },  
 
     "DATABASE": {
-      "description": "put any one database URL — Github token, MongoDB, MySQL, or PostgreSQL.",
+      "description": "",
       "required": true
     }   
   },
